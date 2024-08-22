@@ -271,6 +271,9 @@
       margin: 10px;
       font-family: arial;
       }
+      #sugestao a:hover{
+        background-color: #e0e0e0;
+      }
       #areav{
         display: flex;
         flex-flow: wrap;
@@ -310,36 +313,42 @@
         border-radius: 100px;
         height: 24px;
         left: -3.5px;
+        top: 305px;
       }
       #alea{
         position: absolute;
         border-radius: 100px;
         height: 24px;
         left: 405px;
+        top: 305px;
       }
       #galagol{
         position: absolute;
         border-radius: 100px;
         height: 24px;
         left: 810px;
+        top: 305px;
       }
       #lu{
         position: absolute;
         border-radius: 100px;
         height: 24px;
         left: -3.5px;
+        top: 605px;
       }
       #green{
         position: absolute;
         border-radius: 100px;
         height: 24px;
         left: 405px;
+        top: 605px;
       }
       #mr{
         position: absolute;
         border-radius: 100px;
         height: 24px;
         left: 810px;
+        top: 605px;
       }
       #meio a{
         text-decoration: none;
